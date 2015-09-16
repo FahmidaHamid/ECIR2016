@@ -1,0 +1,1836 @@
+Doc >>D134
+ Reference >>APeer: 71 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D171
+ Reference >>BPeer: G Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D179
+ Reference >>HPeer: B Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D171
+ Reference >>BPeer: 122 Responsiveness: 0 imeasureGuess: 3.5555555555555554
+Doc >>D211
+ Reference >>GPeer: 5 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D185
+ Reference >>BPeer: 147 Responsiveness: 3 imeasureGuess: 2.6666666666666665
+***Correct Guess***Doc >>D201
+ Reference >>EPeer: 96 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: 5 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D173
+ Reference >>EPeer: F Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D147
+ Reference >>APeer: 43 Responsiveness: 0 imeasureGuess: 1.4814814814814814
+Doc >>D188
+ Reference >>FPeer: 109 Responsiveness: 3 imeasureGuess: 2.962962962962963
+***Correct Guess***Doc >>D153
+ Reference >>GPeer: 147 Responsiveness: 2 imeasureGuess: 2.2222222222222223
+***Correct Guess***Doc >>D190
+ Reference >>HPeer: 16 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: 122 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D134
+ Reference >>APeer: 62 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D197
+ Reference >>GPeer: 24 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D191
+ Reference >>DPeer: D Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D168
+ Reference >>HPeer: 71 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D139
+ Reference >>APeer: 71 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D190
+ Reference >>HPeer: 116 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: 30 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D192
+ Reference >>DPeer: D Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D196
+ Reference >>FPeer: 109 Responsiveness: 3 imeasureGuess: 1.9259259259259258
+Doc >>D153
+ Reference >>GPeer: 116 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D176
+ Reference >>GPeer: 125 Responsiveness: 2 imeasureGuess: 0.4444444444444444
+Doc >>D137
+ Reference >>DPeer: 122 Responsiveness: 0 imeasureGuess: 2.814814814814815
+Doc >>D188
+ Reference >>FPeer: 5 Responsiveness: 2 imeasureGuess: 0.8888888888888888
+Doc >>D144
+ Reference >>EPeer: B Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D137
+ Reference >>DPeer: 62 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D187
+ Reference >>EPeer: 122 Responsiveness: 2 imeasureGuess: 2.2222222222222223
+***Correct Guess***Doc >>D156
+ Reference >>FPeer: 16 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D169
+ Reference >>HPeer: 125 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D133
+ Reference >>BPeer: 125 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D185
+ Reference >>BPeer: 43 Responsiveness: 0 imeasureGuess: 1.4814814814814814
+Doc >>D141
+ Reference >>BPeer: 24 Responsiveness: 0 imeasureGuess: 1.037037037037037
+Doc >>D136
+ Reference >>BPeer: 49 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D164
+ Reference >>APeer: 147 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D199
+ Reference >>DPeer: 125 Responsiveness: 0 imeasureGuess: 0.8888888888888888
+Doc >>D166
+ Reference >>APeer: 49 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D199
+ Reference >>DPeer: 71 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D199
+ Reference >>DPeer: 30 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D132
+ Reference >>APeer: 16 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D135
+ Reference >>APeer: 109 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D144
+ Reference >>EPeer: 122 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D144
+ Reference >>EPeer: 96 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D170
+ Reference >>BPeer: 30 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D187
+ Reference >>EPeer: 125 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D190
+ Reference >>HPeer: 5 Responsiveness: 3 imeasureGuess: 0.7407407407407407
+Doc >>D133
+ Reference >>BPeer: 122 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D157
+ Reference >>FPeer: 24 Responsiveness: 2 imeasureGuess: 1.7777777777777777
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 30 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D195
+ Reference >>EPeer: 43 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D159
+ Reference >>DPeer: 16 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: 96 Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D161
+ Reference >>GPeer: G Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D194
+ Reference >>GPeer: D Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D200
+ Reference >>HPeer: 62 Responsiveness: 0 imeasureGuess: 1.9259259259259258
+Doc >>D155
+ Reference >>EPeer: 86 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D132
+ Reference >>APeer: 30 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: 24 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D196
+ Reference >>FPeer: 147 Responsiveness: 3 imeasureGuess: 1.037037037037037
+Doc >>D192
+ Reference >>DPeer: 30 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D135
+ Reference >>APeer: 43 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D139
+ Reference >>APeer: 5 Responsiveness: 3 imeasureGuess: 1.4814814814814814
+Doc >>D193
+ Reference >>FPeer: 49 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: 147 Responsiveness: 0 imeasureGuess: 2.962962962962963
+Doc >>D192
+ Reference >>DPeer: 62 Responsiveness: 3 imeasureGuess: 1.4814814814814814
+Doc >>D171
+ Reference >>BPeer: 30 Responsiveness: 0 imeasureGuess: 3.4074074074074074
+Doc >>D132
+ Reference >>APeer: A Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: E Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D133
+ Reference >>BPeer: 147 Responsiveness: 0 imeasureGuess: 1.1851851851851851
+Doc >>D195
+ Reference >>EPeer: 71 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D196
+ Reference >>FPeer: 49 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D191
+ Reference >>DPeer: 43 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D149
+ Reference >>EPeer: A Responsiveness: 3 imeasureGuess: 3.6666666666666665
+Doc >>D199
+ Reference >>DPeer: 96 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D154
+ Reference >>HPeer: 49 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D148
+ Reference >>FPeer: 109 Responsiveness: 2 imeasureGuess: 3.3846153846153846
+Doc >>D188
+ Reference >>FPeer: 96 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D136
+ Reference >>BPeer: 109 Responsiveness: 3 imeasureGuess: 2.5185185185185186
+***Correct Guess***Doc >>D155
+ Reference >>EPeer: 30 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D132
+ Reference >>APeer: 125 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D166
+ Reference >>APeer: 109 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D133
+ Reference >>BPeer: 49 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D151
+ Reference >>DPeer: 147 Responsiveness: 3 imeasureGuess: 1.9259259259259258
+Doc >>D148
+ Reference >>FPeer: A Responsiveness: 4 imeasureGuess: 2.1538461538461537
+Doc >>D194
+ Reference >>GPeer: 62 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D200
+ Reference >>HPeer: D Responsiveness: 4 imeasureGuess: 3.259259259259259
+Doc >>D136
+ Reference >>BPeer: A Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: 86 Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: H Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D149
+ Reference >>EPeer: C Responsiveness: 2 imeasureGuess: 2.1666666666666665
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: 71 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D176
+ Reference >>GPeer: H Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D149
+ Reference >>EPeer: 24 Responsiveness: 1 imeasureGuess: 1.1666666666666667
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: 125 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D133
+ Reference >>BPeer: 43 Responsiveness: 1 imeasureGuess: 1.4814814814814814
+***Correct Guess***Doc >>D144
+ Reference >>EPeer: 43 Responsiveness: 2 imeasureGuess: 0.5925925925925926
+Doc >>D199
+ Reference >>DPeer: E Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D159
+ Reference >>DPeer: 96 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D136
+ Reference >>BPeer: B Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: H Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D173
+ Reference >>EPeer: 109 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D134
+ Reference >>APeer: 109 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D202
+ Reference >>FPeer: G Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: 62 Responsiveness: 3 imeasureGuess: 1.037037037037037
+Doc >>D197
+ Reference >>GPeer: 86 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D175
+ Reference >>FPeer: 122 Responsiveness: 1 imeasureGuess: 3.5555555555555554
+Doc >>D157
+ Reference >>FPeer: 96 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D151
+ Reference >>DPeer: 43 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D141
+ Reference >>BPeer: 49 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D192
+ Reference >>DPeer: 96 Responsiveness: 2 imeasureGuess: 0.8888888888888888
+Doc >>D196
+ Reference >>FPeer: 24 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D161
+ Reference >>GPeer: 116 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D135
+ Reference >>APeer: A Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D188
+ Reference >>FPeer: 122 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D173
+ Reference >>EPeer: C Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D159
+ Reference >>DPeer: 43 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D188
+ Reference >>FPeer: 125 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D169
+ Reference >>HPeer: 43 Responsiveness: 0 imeasureGuess: 2.2222222222222223
+Doc >>D144
+ Reference >>EPeer: 147 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D136
+ Reference >>BPeer: 62 Responsiveness: 3 imeasureGuess: 3.111111111111111
+***Correct Guess***Doc >>D149
+ Reference >>EPeer: 116 Responsiveness: 2 imeasureGuess: 3.0
+Doc >>D139
+ Reference >>APeer: 86 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D132
+ Reference >>APeer: 109 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D191
+ Reference >>DPeer: 24 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D195
+ Reference >>EPeer: 116 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D195
+ Reference >>EPeer: 122 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D168
+ Reference >>HPeer: 116 Responsiveness: 0 imeasureGuess: 1.6296296296296295
+Doc >>D133
+ Reference >>BPeer: 109 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D147
+ Reference >>APeer: 122 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D191
+ Reference >>DPeer: 30 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D147
+ Reference >>APeer: 24 Responsiveness: 0 imeasureGuess: 2.814814814814815
+Doc >>D155
+ Reference >>EPeer: C Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D187
+ Reference >>EPeer: 147 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D153
+ Reference >>GPeer: D Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D178
+ Reference >>DPeer: 125 Responsiveness: 2 imeasureGuess: 0.5925925925925926
+Doc >>D199
+ Reference >>DPeer: 5 Responsiveness: 1 imeasureGuess: 1.4814814814814814
+***Correct Guess***Doc >>D197
+ Reference >>GPeer: H Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D199
+ Reference >>DPeer: 24 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D189
+ Reference >>GPeer: E Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D154
+ Reference >>HPeer: 71 Responsiveness: 3 imeasureGuess: 1.9259259259259258
+Doc >>D156
+ Reference >>FPeer: 147 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D149
+ Reference >>EPeer: 5 Responsiveness: 0 imeasureGuess: 2.0
+Doc >>D141
+ Reference >>BPeer: 71 Responsiveness: 1 imeasureGuess: 2.6666666666666665
+Doc >>D176
+ Reference >>GPeer: 147 Responsiveness: 0 imeasureGuess: 2.3703703703703702
+Doc >>D199
+ Reference >>DPeer: 109 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D136
+ Reference >>BPeer: 43 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D202
+ Reference >>FPeer: 5 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D166
+ Reference >>APeer: D Responsiveness: 4 imeasureGuess: 1.9259259259259258
+Doc >>D178
+ Reference >>DPeer: 62 Responsiveness: 3 imeasureGuess: 1.3333333333333333
+Doc >>D179
+ Reference >>HPeer: E Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D133
+ Reference >>BPeer: 96 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D165
+ Reference >>HPeer: 86 Responsiveness: 0 imeasureGuess: 2.3703703703703702
+Doc >>D154
+ Reference >>HPeer: 122 Responsiveness: 0 imeasureGuess: 2.2222222222222223
+Doc >>D194
+ Reference >>GPeer: 24 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D166
+ Reference >>APeer: 62 Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D132
+ Reference >>APeer: 122 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D171
+ Reference >>BPeer: 96 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D170
+ Reference >>BPeer: D Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D185
+ Reference >>BPeer: 86 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D144
+ Reference >>EPeer: 71 Responsiveness: 2 imeasureGuess: 0.8888888888888888
+Doc >>D171
+ Reference >>BPeer: 147 Responsiveness: 0 imeasureGuess: 3.111111111111111
+Doc >>D178
+ Reference >>DPeer: 86 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D179
+ Reference >>HPeer: 96 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: 96 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D161
+ Reference >>GPeer: 30 Responsiveness: 1 imeasureGuess: 1.037037037037037
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: 43 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D194
+ Reference >>GPeer: 71 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D153
+ Reference >>GPeer: C Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D211
+ Reference >>GPeer: 96 Responsiveness: 1 imeasureGuess: 3.111111111111111
+Doc >>D195
+ Reference >>EPeer: F Responsiveness: 4 imeasureGuess: 3.259259259259259
+Doc >>D148
+ Reference >>FPeer: B Responsiveness: 4 imeasureGuess: 3.230769230769231
+Doc >>D202
+ Reference >>FPeer: 86 Responsiveness: 0 imeasureGuess: 1.037037037037037
+Doc >>D157
+ Reference >>FPeer: 122 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D148
+ Reference >>FPeer: 16 Responsiveness: 2 imeasureGuess: 0.9230769230769231
+Doc >>D176
+ Reference >>GPeer: C Responsiveness: 3 imeasureGuess: 2.814814814814815
+***Correct Guess***Doc >>D136
+ Reference >>BPeer: 16 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D175
+ Reference >>FPeer: 30 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D179
+ Reference >>HPeer: 30 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D197
+ Reference >>GPeer: G Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D189
+ Reference >>GPeer: H Responsiveness: 3 imeasureGuess: 2.814814814814815
+***Correct Guess***Doc >>D194
+ Reference >>GPeer: 30 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D189
+ Reference >>GPeer: B Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D154
+ Reference >>HPeer: 62 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D149
+ Reference >>EPeer: 16 Responsiveness: 1 imeasureGuess: 3.5
+Doc >>D176
+ Reference >>GPeer: B Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D176
+ Reference >>GPeer: G Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D139
+ Reference >>APeer: G Responsiveness: 4 imeasureGuess: 2.814814814814815
+Doc >>D164
+ Reference >>APeer: 49 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D132
+ Reference >>APeer: 43 Responsiveness: 0 imeasureGuess: 0.7407407407407407
+Doc >>D185
+ Reference >>BPeer: 30 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D147
+ Reference >>APeer: B Responsiveness: 4 imeasureGuess: 2.5185185185185186
+Doc >>D141
+ Reference >>BPeer: 147 Responsiveness: 0 imeasureGuess: 1.9259259259259258
+Doc >>D171
+ Reference >>BPeer: D Responsiveness: 4 imeasureGuess: 2.5185185185185186
+Doc >>D194
+ Reference >>GPeer: 86 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D153
+ Reference >>GPeer: 109 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D192
+ Reference >>DPeer: 49 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D175
+ Reference >>FPeer: 24 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D192
+ Reference >>DPeer: 43 Responsiveness: 3 imeasureGuess: 2.814814814814815
+***Correct Guess***Doc >>D200
+ Reference >>HPeer: 5 Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D157
+ Reference >>FPeer: 5 Responsiveness: 1 imeasureGuess: 3.259259259259259
+Doc >>D193
+ Reference >>FPeer: 16 Responsiveness: 1 imeasureGuess: 3.259259259259259
+Doc >>D134
+ Reference >>APeer: C Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D148
+ Reference >>FPeer: 125 Responsiveness: 3 imeasureGuess: 2.6153846153846154
+***Correct Guess***Doc >>D171
+ Reference >>BPeer: 116 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D164
+ Reference >>APeer: 24 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D164
+ Reference >>APeer: G Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D171
+ Reference >>BPeer: 71 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D211
+ Reference >>GPeer: H Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D148
+ Reference >>FPeer: 49 Responsiveness: 3 imeasureGuess: 0.6153846153846154
+Doc >>D171
+ Reference >>BPeer: 125 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D199
+ Reference >>DPeer: F Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D144
+ Reference >>EPeer: 5 Responsiveness: 2 imeasureGuess: 2.2222222222222223
+***Correct Guess***Doc >>D168
+ Reference >>HPeer: H Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: B Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D201
+ Reference >>EPeer: 71 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D141
+ Reference >>BPeer: B Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D201
+ Reference >>EPeer: 5 Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D193
+ Reference >>FPeer: 147 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D161
+ Reference >>GPeer: 43 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D166
+ Reference >>APeer: 147 Responsiveness: 1 imeasureGuess: 3.111111111111111
+Doc >>D144
+ Reference >>EPeer: A Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D139
+ Reference >>APeer: 24 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D134
+ Reference >>APeer: 122 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D191
+ Reference >>DPeer: 16 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 116 Responsiveness: 0 imeasureGuess: 0.8888888888888888
+Doc >>D200
+ Reference >>HPeer: 147 Responsiveness: 0 imeasureGuess: 1.3333333333333333
+Doc >>D151
+ Reference >>DPeer: 116 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D169
+ Reference >>HPeer: G Responsiveness: 3 imeasureGuess: 3.111111111111111
+***Correct Guess***Doc >>D137
+ Reference >>DPeer: 5 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D188
+ Reference >>FPeer: 43 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D193
+ Reference >>FPeer: 122 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D153
+ Reference >>GPeer: G Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D185
+ Reference >>BPeer: 16 Responsiveness: 2 imeasureGuess: 3.5555555555555554
+Doc >>D159
+ Reference >>DPeer: 125 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D154
+ Reference >>HPeer: 147 Responsiveness: 0 imeasureGuess: 3.4074074074074074
+Doc >>D156
+ Reference >>FPeer: C Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D159
+ Reference >>DPeer: 116 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D192
+ Reference >>DPeer: E Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D173
+ Reference >>EPeer: 125 Responsiveness: 2 imeasureGuess: 0.7407407407407407
+Doc >>D179
+ Reference >>HPeer: 125 Responsiveness: 0 imeasureGuess: 2.814814814814815
+Doc >>D173
+ Reference >>EPeer: 71 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D157
+ Reference >>FPeer: 71 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D194
+ Reference >>GPeer: 125 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D190
+ Reference >>HPeer: 30 Responsiveness: 3 imeasureGuess: 2.6666666666666665
+***Correct Guess***Doc >>D157
+ Reference >>FPeer: 125 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D165
+ Reference >>HPeer: 16 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D192
+ Reference >>DPeer: 125 Responsiveness: 3 imeasureGuess: 2.5185185185185186
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: 62 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D133
+ Reference >>BPeer: 116 Responsiveness: 0 imeasureGuess: 1.037037037037037
+Doc >>D170
+ Reference >>BPeer: 122 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D176
+ Reference >>GPeer: 30 Responsiveness: 2 imeasureGuess: 0.14814814814814814
+Doc >>D199
+ Reference >>DPeer: 116 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D139
+ Reference >>APeer: 147 Responsiveness: 2 imeasureGuess: 0.5925925925925926
+Doc >>D191
+ Reference >>DPeer: 49 Responsiveness: 1 imeasureGuess: 3.259259259259259
+Doc >>D159
+ Reference >>DPeer: 30 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D154
+ Reference >>HPeer: 116 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D196
+ Reference >>FPeer: 16 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D155
+ Reference >>EPeer: 116 Responsiveness: 2 imeasureGuess: 2.2222222222222223
+***Correct Guess***Doc >>D185
+ Reference >>BPeer: 96 Responsiveness: 3 imeasureGuess: 2.3703703703703702
+Doc >>D189
+ Reference >>GPeer: 86 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D173
+ Reference >>EPeer: 16 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D168
+ Reference >>HPeer: 16 Responsiveness: 0 imeasureGuess: 1.7777777777777777
+Doc >>D161
+ Reference >>GPeer: 109 Responsiveness: 2 imeasureGuess: 3.5555555555555554
+Doc >>D132
+ Reference >>APeer: 24 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D211
+ Reference >>GPeer: 43 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D196
+ Reference >>FPeer: 43 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D134
+ Reference >>APeer: 43 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D196
+ Reference >>FPeer: C Responsiveness: 3 imeasureGuess: 2.962962962962963
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: 30 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D161
+ Reference >>GPeer: 86 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D197
+ Reference >>GPeer: 71 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D189
+ Reference >>GPeer: 49 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D141
+ Reference >>BPeer: 96 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D147
+ Reference >>APeer: 30 Responsiveness: 0 imeasureGuess: 3.5555555555555554
+Doc >>D147
+ Reference >>APeer: 71 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D175
+ Reference >>FPeer: 147 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D179
+ Reference >>HPeer: 147 Responsiveness: 1 imeasureGuess: 3.111111111111111
+Doc >>D154
+ Reference >>HPeer: 16 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D141
+ Reference >>BPeer: 109 Responsiveness: 0 imeasureGuess: 1.6296296296296295
+Doc >>D153
+ Reference >>GPeer: 5 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D175
+ Reference >>FPeer: B Responsiveness: 4 imeasureGuess: 2.6666666666666665
+Doc >>D168
+ Reference >>HPeer: 43 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D137
+ Reference >>DPeer: 71 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D191
+ Reference >>DPeer: 71 Responsiveness: 1 imeasureGuess: 3.111111111111111
+Doc >>D197
+ Reference >>GPeer: 62 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D134
+ Reference >>APeer: 24 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D188
+ Reference >>FPeer: 30 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D179
+ Reference >>HPeer: 62 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D176
+ Reference >>GPeer: 122 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D135
+ Reference >>APeer: G Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D179
+ Reference >>HPeer: 49 Responsiveness: 0 imeasureGuess: 1.3333333333333333
+Doc >>D174
+ Reference >>BPeer: H Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D139
+ Reference >>APeer: 43 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D201
+ Reference >>EPeer: 30 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D141
+ Reference >>BPeer: A Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D197
+ Reference >>GPeer: 122 Responsiveness: 1 imeasureGuess: 1.037037037037037
+***Correct Guess***Doc >>D148
+ Reference >>FPeer: 71 Responsiveness: 2 imeasureGuess: 2.3076923076923075
+***Correct Guess***Doc >>D199
+ Reference >>DPeer: G Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D199
+ Reference >>DPeer: 43 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D171
+ Reference >>BPeer: 24 Responsiveness: 0 imeasureGuess: 1.1851851851851851
+Doc >>D155
+ Reference >>EPeer: 71 Responsiveness: 2 imeasureGuess: 0.4444444444444444
+Doc >>D185
+ Reference >>BPeer: 116 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D195
+ Reference >>EPeer: 147 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D178
+ Reference >>DPeer: B Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: 71 Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D185
+ Reference >>BPeer: D Responsiveness: 4 imeasureGuess: 1.3333333333333333
+Doc >>D132
+ Reference >>APeer: 62 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 16 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 96 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D151
+ Reference >>DPeer: 16 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D153
+ Reference >>GPeer: 24 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D166
+ Reference >>APeer: 125 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D134
+ Reference >>APeer: A Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D134
+ Reference >>APeer: B Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D153
+ Reference >>GPeer: 125 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D195
+ Reference >>EPeer: E Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D191
+ Reference >>DPeer: 5 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D201
+ Reference >>EPeer: 125 Responsiveness: 3 imeasureGuess: 1.6296296296296295
+Doc >>D194
+ Reference >>GPeer: H Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D173
+ Reference >>EPeer: 30 Responsiveness: 2 imeasureGuess: 0.4444444444444444
+Doc >>D156
+ Reference >>FPeer: 109 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D201
+ Reference >>EPeer: 43 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D200
+ Reference >>HPeer: 125 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D194
+ Reference >>GPeer: C Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D187
+ Reference >>EPeer: 96 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D156
+ Reference >>FPeer: 30 Responsiveness: 2 imeasureGuess: 0.7407407407407407
+Doc >>D211
+ Reference >>GPeer: E Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D156
+ Reference >>FPeer: 71 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D187
+ Reference >>EPeer: 5 Responsiveness: 2 imeasureGuess: 0.14814814814814814
+Doc >>D134
+ Reference >>APeer: 125 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 43 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D178
+ Reference >>DPeer: G Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D154
+ Reference >>HPeer: A Responsiveness: 4 imeasureGuess: 2.5185185185185186
+Doc >>D201
+ Reference >>EPeer: 122 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D178
+ Reference >>DPeer: 122 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D191
+ Reference >>DPeer: 116 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D189
+ Reference >>GPeer: 24 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D192
+ Reference >>DPeer: 147 Responsiveness: 3 imeasureGuess: 1.9259259259259258
+Doc >>D168
+ Reference >>HPeer: 86 Responsiveness: 0 imeasureGuess: 1.037037037037037
+Doc >>D179
+ Reference >>HPeer: 109 Responsiveness: 0 imeasureGuess: 2.074074074074074
+Doc >>D202
+ Reference >>FPeer: 147 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: 49 Responsiveness: 0 imeasureGuess: 1.7777777777777777
+Doc >>D195
+ Reference >>EPeer: 96 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D155
+ Reference >>EPeer: 96 Responsiveness: 0 imeasureGuess: 3.7037037037037037
+Doc >>D157
+ Reference >>FPeer: 109 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D133
+ Reference >>BPeer: 62 Responsiveness: 3 imeasureGuess: 2.962962962962963
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: 86 Responsiveness: 0 imeasureGuess: 0.5925925925925926
+Doc >>D164
+ Reference >>APeer: 86 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D166
+ Reference >>APeer: 24 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D164
+ Reference >>APeer: 125 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D190
+ Reference >>HPeer: 43 Responsiveness: 0 imeasureGuess: 2.962962962962963
+Doc >>D157
+ Reference >>FPeer: A Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D178
+ Reference >>DPeer: 5 Responsiveness: 3 imeasureGuess: 0.2962962962962963
+Doc >>D139
+ Reference >>APeer: A Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D197
+ Reference >>GPeer: 30 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D179
+ Reference >>HPeer: D Responsiveness: 4 imeasureGuess: 2.2222222222222223
+Doc >>D154
+ Reference >>HPeer: 125 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D168
+ Reference >>HPeer: 125 Responsiveness: 0 imeasureGuess: 2.5185185185185186
+Doc >>D179
+ Reference >>HPeer: 5 Responsiveness: 3 imeasureGuess: 1.7777777777777777
+Doc >>D211
+ Reference >>GPeer: F Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D202
+ Reference >>FPeer: 49 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D159
+ Reference >>DPeer: F Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D173
+ Reference >>EPeer: 96 Responsiveness: 2 imeasureGuess: 3.7037037037037037
+Doc >>D165
+ Reference >>HPeer: 62 Responsiveness: 3 imeasureGuess: 2.962962962962963
+***Correct Guess***Doc >>D189
+ Reference >>GPeer: 43 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D133
+ Reference >>BPeer: 71 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D211
+ Reference >>GPeer: 125 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D168
+ Reference >>HPeer: F Responsiveness: 3 imeasureGuess: 3.111111111111111
+***Correct Guess***Doc >>D178
+ Reference >>DPeer: 109 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D141
+ Reference >>BPeer: 30 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D194
+ Reference >>GPeer: 96 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D156
+ Reference >>FPeer: 86 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D197
+ Reference >>GPeer: 116 Responsiveness: 0 imeasureGuess: 0.7407407407407407
+Doc >>D161
+ Reference >>GPeer: 62 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D187
+ Reference >>EPeer: G Responsiveness: 3 imeasureGuess: 3.111111111111111
+***Correct Guess***Doc >>D157
+ Reference >>FPeer: 30 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D174
+ Reference >>BPeer: B Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: 86 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D132
+ Reference >>APeer: D Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D135
+ Reference >>APeer: B Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D193
+ Reference >>FPeer: 62 Responsiveness: 2 imeasureGuess: 1.7777777777777777
+***Correct Guess***Doc >>D179
+ Reference >>HPeer: H Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D194
+ Reference >>GPeer: 16 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D188
+ Reference >>FPeer: 24 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D166
+ Reference >>APeer: G Responsiveness: 4 imeasureGuess: 3.259259259259259
+Doc >>D188
+ Reference >>FPeer: 147 Responsiveness: 3 imeasureGuess: 2.6666666666666665
+***Correct Guess***Doc >>D161
+ Reference >>GPeer: 125 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: D Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D185
+ Reference >>BPeer: 62 Responsiveness: 1 imeasureGuess: 1.037037037037037
+***Correct Guess***Doc >>D189
+ Reference >>GPeer: 109 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D157
+ Reference >>FPeer: 62 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D136
+ Reference >>BPeer: H Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D188
+ Reference >>FPeer: 116 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D144
+ Reference >>EPeer: 116 Responsiveness: 2 imeasureGuess: 0.14814814814814814
+Doc >>D133
+ Reference >>BPeer: 16 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D187
+ Reference >>EPeer: 24 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D148
+ Reference >>FPeer: 86 Responsiveness: 2 imeasureGuess: 1.8461538461538463
+***Correct Guess***Doc >>D193
+ Reference >>FPeer: 30 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D137
+ Reference >>DPeer: 16 Responsiveness: 2 imeasureGuess: 0.14814814814814814
+Doc >>D193
+ Reference >>FPeer: 71 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D147
+ Reference >>APeer: E Responsiveness: 4 imeasureGuess: 2.074074074074074
+Doc >>D165
+ Reference >>HPeer: 5 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D200
+ Reference >>HPeer: 49 Responsiveness: 0 imeasureGuess: 2.5185185185185186
+Doc >>D188
+ Reference >>FPeer: 49 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D188
+ Reference >>FPeer: B Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D148
+ Reference >>FPeer: 62 Responsiveness: 2 imeasureGuess: 1.3846153846153846
+Doc >>D139
+ Reference >>APeer: 30 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D202
+ Reference >>FPeer: 109 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D161
+ Reference >>GPeer: 16 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D149
+ Reference >>EPeer: 30 Responsiveness: 2 imeasureGuess: 0.6666666666666666
+Doc >>D165
+ Reference >>HPeer: 24 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D149
+ Reference >>EPeer: 71 Responsiveness: 2 imeasureGuess: 1.6666666666666667
+***Correct Guess***Doc >>D190
+ Reference >>HPeer: 125 Responsiveness: 0 imeasureGuess: 1.1851851851851851
+Doc >>D141
+ Reference >>BPeer: 43 Responsiveness: 0 imeasureGuess: 0.7407407407407407
+Doc >>D201
+ Reference >>EPeer: D Responsiveness: 3 imeasureGuess: 3.111111111111111
+***Correct Guess***Doc >>D155
+ Reference >>EPeer: 49 Responsiveness: 0 imeasureGuess: 3.4074074074074074
+Doc >>D148
+ Reference >>FPeer: 30 Responsiveness: 2 imeasureGuess: 3.6923076923076925
+Doc >>D178
+ Reference >>DPeer: 49 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D191
+ Reference >>DPeer: 125 Responsiveness: 3 imeasureGuess: 2.3703703703703702
+Doc >>D147
+ Reference >>APeer: 96 Responsiveness: 1 imeasureGuess: 2.6666666666666665
+Doc >>D195
+ Reference >>EPeer: 16 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D137
+ Reference >>DPeer: E Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D201
+ Reference >>EPeer: 109 Responsiveness: 2 imeasureGuess: 1.7777777777777777
+***Correct Guess***Doc >>D173
+ Reference >>EPeer: 24 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D202
+ Reference >>FPeer: 24 Responsiveness: 3 imeasureGuess: 3.111111111111111
+***Correct Guess***Doc >>D136
+ Reference >>BPeer: 96 Responsiveness: 0 imeasureGuess: 0.7407407407407407
+Doc >>D193
+ Reference >>FPeer: F Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D185
+ Reference >>BPeer: B Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D176
+ Reference >>GPeer: 5 Responsiveness: 2 imeasureGuess: 0.5925925925925926
+Doc >>D149
+ Reference >>EPeer: 96 Responsiveness: 2 imeasureGuess: 1.5
+***Correct Guess***Doc >>D171
+ Reference >>BPeer: 109 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D194
+ Reference >>GPeer: 147 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D192
+ Reference >>DPeer: 116 Responsiveness: 3 imeasureGuess: 2.3703703703703702
+Doc >>D153
+ Reference >>GPeer: 122 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D148
+ Reference >>FPeer: 96 Responsiveness: 3 imeasureGuess: 0.7692307692307693
+Doc >>D157
+ Reference >>FPeer: 16 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D200
+ Reference >>HPeer: 122 Responsiveness: 1 imeasureGuess: 3.7037037037037037
+Doc >>D202
+ Reference >>FPeer: 125 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D168
+ Reference >>HPeer: 62 Responsiveness: 0 imeasureGuess: 1.1851851851851851
+Doc >>D188
+ Reference >>FPeer: 62 Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D139
+ Reference >>APeer: D Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D144
+ Reference >>EPeer: 49 Responsiveness: 2 imeasureGuess: 0.7407407407407407
+Doc >>D166
+ Reference >>APeer: H Responsiveness: 4 imeasureGuess: 1.4814814814814814
+Doc >>D211
+ Reference >>GPeer: 71 Responsiveness: 2 imeasureGuess: 0.8888888888888888
+Doc >>D192
+ Reference >>DPeer: C Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D133
+ Reference >>BPeer: 86 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: 116 Responsiveness: 0 imeasureGuess: 1.3333333333333333
+Doc >>D200
+ Reference >>HPeer: 43 Responsiveness: 0 imeasureGuess: 2.814814814814815
+Doc >>D161
+ Reference >>GPeer: 96 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D179
+ Reference >>HPeer: 122 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D147
+ Reference >>APeer: 5 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D156
+ Reference >>FPeer: 96 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D155
+ Reference >>EPeer: 122 Responsiveness: 2 imeasureGuess: 0.7407407407407407
+Doc >>D193
+ Reference >>FPeer: 109 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D195
+ Reference >>EPeer: 49 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D156
+ Reference >>FPeer: A Responsiveness: 4 imeasureGuess: 2.5185185185185186
+Doc >>D197
+ Reference >>GPeer: 16 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D178
+ Reference >>DPeer: 16 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D201
+ Reference >>EPeer: H Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D189
+ Reference >>GPeer: 147 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D196
+ Reference >>FPeer: 116 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D148
+ Reference >>FPeer: 116 Responsiveness: 3 imeasureGuess: 1.0769230769230769
+Doc >>D136
+ Reference >>BPeer: 116 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D168
+ Reference >>HPeer: 109 Responsiveness: 0 imeasureGuess: 2.6666666666666665
+Doc >>D176
+ Reference >>GPeer: 71 Responsiveness: 2 imeasureGuess: 0.8888888888888888
+Doc >>D200
+ Reference >>HPeer: 24 Responsiveness: 0 imeasureGuess: 2.6666666666666665
+Doc >>D188
+ Reference >>FPeer: 16 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D135
+ Reference >>APeer: 147 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D153
+ Reference >>GPeer: 71 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D154
+ Reference >>HPeer: 109 Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D155
+ Reference >>EPeer: 125 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D148
+ Reference >>FPeer: 43 Responsiveness: 2 imeasureGuess: 1.6923076923076923
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: 62 Responsiveness: 1 imeasureGuess: 1.037037037037037
+***Correct Guess***Doc >>D141
+ Reference >>BPeer: 122 Responsiveness: 0 imeasureGuess: 2.3703703703703702
+Doc >>D153
+ Reference >>GPeer: 49 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D202
+ Reference >>FPeer: F Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D164
+ Reference >>APeer: 96 Responsiveness: 1 imeasureGuess: 1.037037037037037
+***Correct Guess***Doc >>D149
+ Reference >>EPeer: 43 Responsiveness: 1 imeasureGuess: 2.8333333333333335
+Doc >>D135
+ Reference >>APeer: 24 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D154
+ Reference >>HPeer: D Responsiveness: 4 imeasureGuess: 3.111111111111111
+Doc >>D153
+ Reference >>GPeer: A Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D134
+ Reference >>APeer: 86 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D171
+ Reference >>BPeer: 49 Responsiveness: 0 imeasureGuess: 0.8888888888888888
+Doc >>D147
+ Reference >>APeer: H Responsiveness: 4 imeasureGuess: 2.2222222222222223
+Doc >>D159
+ Reference >>DPeer: 86 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D200
+ Reference >>HPeer: F Responsiveness: 4 imeasureGuess: 3.111111111111111
+Doc >>D137
+ Reference >>DPeer: A Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D178
+ Reference >>DPeer: 43 Responsiveness: 0 imeasureGuess: 1.7777777777777777
+Doc >>D171
+ Reference >>BPeer: 86 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: 125 Responsiveness: 3 imeasureGuess: 2.814814814814815
+***Correct Guess***Doc >>D193
+ Reference >>FPeer: G Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D161
+ Reference >>GPeer: D Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 122 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D211
+ Reference >>GPeer: 147 Responsiveness: 2 imeasureGuess: 3.5555555555555554
+Doc >>D161
+ Reference >>GPeer: 49 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D136
+ Reference >>BPeer: 5 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D179
+ Reference >>HPeer: 24 Responsiveness: 0 imeasureGuess: 2.6666666666666665
+Doc >>D190
+ Reference >>HPeer: 147 Responsiveness: 1 imeasureGuess: 3.5555555555555554
+Doc >>D161
+ Reference >>GPeer: A Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D134
+ Reference >>APeer: 49 Responsiveness: 1 imeasureGuess: 3.259259259259259
+Doc >>D178
+ Reference >>DPeer: 147 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D201
+ Reference >>EPeer: 62 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D173
+ Reference >>EPeer: 5 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D211
+ Reference >>GPeer: 116 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D171
+ Reference >>BPeer: B Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D173
+ Reference >>EPeer: 43 Responsiveness: 2 imeasureGuess: 0.14814814814814814
+Doc >>D161
+ Reference >>GPeer: E Responsiveness: 3 imeasureGuess: 1.6296296296296295
+Doc >>D194
+ Reference >>GPeer: 116 Responsiveness: 2 imeasureGuess: 0.4444444444444444
+Doc >>D190
+ Reference >>HPeer: F Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D134
+ Reference >>APeer: 30 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D176
+ Reference >>GPeer: 16 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D176
+ Reference >>GPeer: 96 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D132
+ Reference >>APeer: C Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D187
+ Reference >>EPeer: 30 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D168
+ Reference >>HPeer: A Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: 86 Responsiveness: 0 imeasureGuess: 3.111111111111111
+Doc >>D151
+ Reference >>DPeer: C Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D134
+ Reference >>APeer: 147 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D200
+ Reference >>HPeer: 71 Responsiveness: 0 imeasureGuess: 2.2222222222222223
+Doc >>D166
+ Reference >>APeer: 122 Responsiveness: 2 imeasureGuess: 0.8888888888888888
+Doc >>D170
+ Reference >>BPeer: 125 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D191
+ Reference >>DPeer: E Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D147
+ Reference >>APeer: 16 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D202
+ Reference >>FPeer: 116 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D173
+ Reference >>EPeer: 122 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D200
+ Reference >>HPeer: 116 Responsiveness: 0 imeasureGuess: 0.8888888888888888
+Doc >>D171
+ Reference >>BPeer: C Responsiveness: 3 imeasureGuess: 1.9259259259259258
+Doc >>D132
+ Reference >>APeer: 49 Responsiveness: 1 imeasureGuess: 1.037037037037037
+***Correct Guess***Doc >>D132
+ Reference >>APeer: B Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D144
+ Reference >>EPeer: 86 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D171
+ Reference >>BPeer: 16 Responsiveness: 3 imeasureGuess: 1.037037037037037
+Doc >>D169
+ Reference >>HPeer: 30 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D133
+ Reference >>BPeer: C Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D139
+ Reference >>APeer: 122 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D133
+ Reference >>BPeer: B Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D149
+ Reference >>EPeer: D Responsiveness: 2 imeasureGuess: 2.5
+***Correct Guess***Doc >>D148
+ Reference >>FPeer: G Responsiveness: 4 imeasureGuess: 3.076923076923077
+Doc >>D185
+ Reference >>BPeer: 24 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D176
+ Reference >>GPeer: 43 Responsiveness: 3 imeasureGuess: 1.6296296296296295
+Doc >>D197
+ Reference >>GPeer: 43 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D201
+ Reference >>EPeer: 116 Responsiveness: 2 imeasureGuess: 0.14814814814814814
+Doc >>D178
+ Reference >>DPeer: 116 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D164
+ Reference >>APeer: 109 Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: C Responsiveness: 0 imeasureGuess: 1.037037037037037
+Doc >>D189
+ Reference >>GPeer: G Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D188
+ Reference >>FPeer: H Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D147
+ Reference >>APeer: 125 Responsiveness: 2 imeasureGuess: 0.5925925925925926
+Doc >>D175
+ Reference >>FPeer: 109 Responsiveness: 3 imeasureGuess: 2.5185185185185186
+***Correct Guess***Doc >>D159
+ Reference >>DPeer: 24 Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D159
+ Reference >>DPeer: 62 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D190
+ Reference >>HPeer: 49 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D211
+ Reference >>GPeer: 62 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D169
+ Reference >>HPeer: E Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D164
+ Reference >>APeer: 30 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D159
+ Reference >>DPeer: E Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D164
+ Reference >>APeer: 62 Responsiveness: 1 imeasureGuess: 0.7407407407407407
+***Correct Guess***Doc >>D191
+ Reference >>DPeer: 86 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D192
+ Reference >>DPeer: 5 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D178
+ Reference >>DPeer: E Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D191
+ Reference >>DPeer: C Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D191
+ Reference >>DPeer: 147 Responsiveness: 0 imeasureGuess: 0.8888888888888888
+Doc >>D190
+ Reference >>HPeer: 122 Responsiveness: 2 imeasureGuess: 0.8888888888888888
+Doc >>D156
+ Reference >>FPeer: 24 Responsiveness: 2 imeasureGuess: 1.7777777777777777
+***Correct Guess***Doc >>D194
+ Reference >>GPeer: 5 Responsiveness: 1 imeasureGuess: 1.037037037037037
+***Correct Guess***Doc >>D157
+ Reference >>FPeer: 147 Responsiveness: 3 imeasureGuess: 2.6666666666666665
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 62 Responsiveness: 1 imeasureGuess: 2.6666666666666665
+Doc >>D211
+ Reference >>GPeer: G Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D154
+ Reference >>HPeer: 86 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D197
+ Reference >>GPeer: 96 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D197
+ Reference >>GPeer: 5 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D193
+ Reference >>FPeer: 125 Responsiveness: 3 imeasureGuess: 2.6666666666666665
+***Correct Guess***Doc >>D132
+ Reference >>APeer: 86 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D211
+ Reference >>GPeer: 122 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D159
+ Reference >>DPeer: 122 Responsiveness: 1 imeasureGuess: 1.4814814814814814
+***Correct Guess***Doc >>D133
+ Reference >>BPeer: E Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D187
+ Reference >>EPeer: 16 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D135
+ Reference >>APeer: 86 Responsiveness: 2 imeasureGuess: 0.7407407407407407
+Doc >>D189
+ Reference >>GPeer: 30 Responsiveness: 2 imeasureGuess: 0.7407407407407407
+Doc >>D187
+ Reference >>EPeer: B Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D168
+ Reference >>HPeer: 49 Responsiveness: 0 imeasureGuess: 2.814814814814815
+Doc >>D139
+ Reference >>APeer: 49 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D202
+ Reference >>FPeer: 96 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D193
+ Reference >>FPeer: B Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D155
+ Reference >>EPeer: 43 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D164
+ Reference >>APeer: A Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D185
+ Reference >>BPeer: 125 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D185
+ Reference >>BPeer: H Responsiveness: 4 imeasureGuess: 2.2222222222222223
+Doc >>D157
+ Reference >>FPeer: C Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D141
+ Reference >>BPeer: 62 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D194
+ Reference >>GPeer: G Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D157
+ Reference >>FPeer: 86 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D151
+ Reference >>DPeer: 122 Responsiveness: 1 imeasureGuess: 3.111111111111111
+Doc >>D165
+ Reference >>HPeer: F Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D132
+ Reference >>APeer: 116 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D170
+ Reference >>BPeer: 43 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: 116 Responsiveness: 0 imeasureGuess: 0.8888888888888888
+Doc >>D194
+ Reference >>GPeer: 43 Responsiveness: 2 imeasureGuess: 3.5555555555555554
+Doc >>D190
+ Reference >>HPeer: 86 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D196
+ Reference >>FPeer: 5 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D135
+ Reference >>APeer: 62 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: 116 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D202
+ Reference >>FPeer: H Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D133
+ Reference >>BPeer: 30 Responsiveness: 0 imeasureGuess: 0.5925925925925926
+Doc >>D166
+ Reference >>APeer: 71 Responsiveness: 2 imeasureGuess: 0.14814814814814814
+Doc >>D166
+ Reference >>APeer: 30 Responsiveness: 2 imeasureGuess: 1.7777777777777777
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: A Responsiveness: 3 imeasureGuess: 2.3703703703703702
+Doc >>D194
+ Reference >>GPeer: 122 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D141
+ Reference >>BPeer: 125 Responsiveness: 1 imeasureGuess: 1.4814814814814814
+***Correct Guess***Doc >>D200
+ Reference >>HPeer: 96 Responsiveness: 0 imeasureGuess: 0.5925925925925926
+Doc >>D196
+ Reference >>FPeer: F Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D211
+ Reference >>GPeer: 109 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: 49 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D153
+ Reference >>GPeer: 43 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D135
+ Reference >>APeer: 30 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D159
+ Reference >>DPeer: 71 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D137
+ Reference >>DPeer: 125 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D192
+ Reference >>DPeer: 24 Responsiveness: 2 imeasureGuess: 0.4444444444444444
+Doc >>D155
+ Reference >>EPeer: 147 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D211
+ Reference >>GPeer: 30 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D148
+ Reference >>FPeer: 147 Responsiveness: 3 imeasureGuess: 1.2307692307692308
+Doc >>D201
+ Reference >>EPeer: 86 Responsiveness: 2 imeasureGuess: 0.5925925925925926
+Doc >>D154
+ Reference >>HPeer: 30 Responsiveness: 1 imeasureGuess: 3.259259259259259
+Doc >>D165
+ Reference >>HPeer: A Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 109 Responsiveness: 2 imeasureGuess: 3.5555555555555554
+Doc >>D188
+ Reference >>FPeer: F Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D197
+ Reference >>GPeer: 125 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D151
+ Reference >>DPeer: 109 Responsiveness: 3 imeasureGuess: 2.3703703703703702
+Doc >>D168
+ Reference >>HPeer: 122 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D144
+ Reference >>EPeer: 125 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D141
+ Reference >>BPeer: 16 Responsiveness: 0 imeasureGuess: 2.074074074074074
+Doc >>D178
+ Reference >>DPeer: 30 Responsiveness: 3 imeasureGuess: 2.3703703703703702
+Doc >>D151
+ Reference >>DPeer: 24 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D174
+ Reference >>BPeer: 24 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D139
+ Reference >>APeer: 109 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D153
+ Reference >>GPeer: 16 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D164
+ Reference >>APeer: 43 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D185
+ Reference >>BPeer: F Responsiveness: 4 imeasureGuess: 1.7777777777777777
+Doc >>D156
+ Reference >>FPeer: 43 Responsiveness: 3 imeasureGuess: 2.2222222222222223
+Doc >>D195
+ Reference >>EPeer: C Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D195
+ Reference >>EPeer: 125 Responsiveness: 2 imeasureGuess: 2.814814814814815
+Doc >>D199
+ Reference >>DPeer: 86 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D168
+ Reference >>HPeer: E Responsiveness: 4 imeasureGuess: 3.259259259259259
+Doc >>D144
+ Reference >>EPeer: 62 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D194
+ Reference >>GPeer: 49 Responsiveness: 0 imeasureGuess: 1.1851851851851851
+Doc >>D166
+ Reference >>APeer: 96 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D189
+ Reference >>GPeer: 71 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D175
+ Reference >>FPeer: F Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D211
+ Reference >>GPeer: 24 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D135
+ Reference >>APeer: 116 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: 16 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: A Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D173
+ Reference >>EPeer: 62 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D155
+ Reference >>EPeer: A Responsiveness: 4 imeasureGuess: 3.111111111111111
+Doc >>D175
+ Reference >>FPeer: C Responsiveness: 3 imeasureGuess: 2.2222222222222223
+Doc >>D156
+ Reference >>FPeer: 122 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D175
+ Reference >>FPeer: 16 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D197
+ Reference >>GPeer: F Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D136
+ Reference >>BPeer: 30 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D168
+ Reference >>HPeer: 5 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D202
+ Reference >>FPeer: 62 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D137
+ Reference >>DPeer: 96 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D149
+ Reference >>EPeer: 109 Responsiveness: 1 imeasureGuess: 2.6666666666666665
+Doc >>D211
+ Reference >>GPeer: 49 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D200
+ Reference >>HPeer: 109 Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D199
+ Reference >>DPeer: 49 Responsiveness: 3 imeasureGuess: 3.111111111111111
+***Correct Guess***Doc >>D155
+ Reference >>EPeer: E Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D170
+ Reference >>BPeer: 71 Responsiveness: 2 imeasureGuess: 0.8888888888888888
+Doc >>D147
+ Reference >>APeer: 147 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D191
+ Reference >>DPeer: 109 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D200
+ Reference >>HPeer: 16 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D137
+ Reference >>DPeer: 86 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D135
+ Reference >>APeer: 16 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D187
+ Reference >>EPeer: 86 Responsiveness: 3 imeasureGuess: 0.7407407407407407
+Doc >>D159
+ Reference >>DPeer: D Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D135
+ Reference >>APeer: C Responsiveness: 3 imeasureGuess: 2.814814814814815
+***Correct Guess***Doc >>D141
+ Reference >>BPeer: 5 Responsiveness: 0 imeasureGuess: 0.8888888888888888
+Doc >>D200
+ Reference >>HPeer: 30 Responsiveness: 1 imeasureGuess: 3.5555555555555554
+Doc >>D174
+ Reference >>BPeer: 49 Responsiveness: 2 imeasureGuess: 1.7777777777777777
+***Correct Guess***Doc >>D202
+ Reference >>FPeer: D Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D151
+ Reference >>DPeer: 49 Responsiveness: 3 imeasureGuess: 2.6666666666666665
+***Correct Guess***Doc >>D193
+ Reference >>FPeer: 5 Responsiveness: 2 imeasureGuess: 0.4444444444444444
+Doc >>D185
+ Reference >>BPeer: 122 Responsiveness: 0 imeasureGuess: 3.7037037037037037
+Doc >>D147
+ Reference >>APeer: 49 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D132
+ Reference >>APeer: 96 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: 5 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D155
+ Reference >>EPeer: G Responsiveness: 4 imeasureGuess: 2.6666666666666665
+Doc >>D201
+ Reference >>EPeer: 147 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D154
+ Reference >>HPeer: 96 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D200
+ Reference >>HPeer: E Responsiveness: 4 imeasureGuess: 2.962962962962963
+Doc >>D147
+ Reference >>APeer: 62 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D187
+ Reference >>EPeer: F Responsiveness: 3 imeasureGuess: 2.814814814814815
+***Correct Guess***Doc >>D161
+ Reference >>GPeer: 122 Responsiveness: 0 imeasureGuess: 1.7777777777777777
+Doc >>D159
+ Reference >>DPeer: 109 Responsiveness: 3 imeasureGuess: 3.111111111111111
+***Correct Guess***Doc >>D194
+ Reference >>GPeer: 109 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D190
+ Reference >>HPeer: G Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D135
+ Reference >>APeer: 71 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D170
+ Reference >>BPeer: 109 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D196
+ Reference >>FPeer: 122 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D148
+ Reference >>FPeer: 5 Responsiveness: 1 imeasureGuess: 1.5384615384615385
+Doc >>D196
+ Reference >>FPeer: 125 Responsiveness: 2 imeasureGuess: 0.7407407407407407
+Doc >>D174
+ Reference >>BPeer: 71 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D193
+ Reference >>FPeer: C Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D201
+ Reference >>EPeer: 16 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D196
+ Reference >>FPeer: 96 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D164
+ Reference >>APeer: 71 Responsiveness: 0 imeasureGuess: 1.7777777777777777
+Doc >>D185
+ Reference >>BPeer: 109 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D193
+ Reference >>FPeer: 96 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D171
+ Reference >>BPeer: 5 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D157
+ Reference >>FPeer: F Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D141
+ Reference >>BPeer: D Responsiveness: 4 imeasureGuess: 3.259259259259259
+Doc >>D196
+ Reference >>FPeer: 62 Responsiveness: 3 imeasureGuess: 1.6296296296296295
+Doc >>D166
+ Reference >>APeer: A Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D164
+ Reference >>APeer: 16 Responsiveness: 0 imeasureGuess: 2.2222222222222223
+Doc >>D154
+ Reference >>HPeer: H Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: 116 Responsiveness: 0 imeasureGuess: 0.7407407407407407
+Doc >>D144
+ Reference >>EPeer: E Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D154
+ Reference >>HPeer: C Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D195
+ Reference >>EPeer: 5 Responsiveness: 1 imeasureGuess: 3.7037037037037037
+Doc >>D133
+ Reference >>BPeer: 24 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D166
+ Reference >>APeer: 43 Responsiveness: 0 imeasureGuess: 1.3333333333333333
+Doc >>D173
+ Reference >>EPeer: E Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D168
+ Reference >>HPeer: 24 Responsiveness: 0 imeasureGuess: 0.7407407407407407
+Doc >>D151
+ Reference >>DPeer: F Responsiveness: 3 imeasureGuess: 2.5185185185185186
+***Correct Guess***Doc >>D134
+ Reference >>APeer: 5 Responsiveness: 2 imeasureGuess: 0.4444444444444444
+Doc >>D154
+ Reference >>HPeer: 24 Responsiveness: 0 imeasureGuess: 2.6666666666666665
+Doc >>D200
+ Reference >>HPeer: H Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 125 Responsiveness: 1 imeasureGuess: 2.3703703703703702
+Doc >>D169
+ Reference >>HPeer: 24 Responsiveness: 0 imeasureGuess: 1.6296296296296295
+Doc >>D139
+ Reference >>APeer: B Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D188
+ Reference >>FPeer: E Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D159
+ Reference >>DPeer: 147 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D139
+ Reference >>APeer: 16 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D192
+ Reference >>DPeer: 122 Responsiveness: 2 imeasureGuess: 0.5925925925925926
+Doc >>D153
+ Reference >>GPeer: 62 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D189
+ Reference >>GPeer: 125 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D156
+ Reference >>FPeer: 49 Responsiveness: 3 imeasureGuess: 2.814814814814815
+***Correct Guess***Doc >>D161
+ Reference >>GPeer: 24 Responsiveness: 1 imeasureGuess: 3.4074074074074074
+Doc >>D179
+ Reference >>HPeer: 86 Responsiveness: 0 imeasureGuess: 0.8888888888888888
+Doc >>D201
+ Reference >>EPeer: E Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D168
+ Reference >>HPeer: 147 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: 147 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D187
+ Reference >>EPeer: E Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D135
+ Reference >>APeer: 96 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D190
+ Reference >>HPeer: 109 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D199
+ Reference >>DPeer: 122 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D193
+ Reference >>FPeer: 24 Responsiveness: 0 imeasureGuess: 1.4814814814814814
+Doc >>D195
+ Reference >>EPeer: 86 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D137
+ Reference >>DPeer: D Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D179
+ Reference >>HPeer: 116 Responsiveness: 0 imeasureGuess: 1.6296296296296295
+Doc >>D159
+ Reference >>DPeer: 49 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D164
+ Reference >>APeer: 5 Responsiveness: 3 imeasureGuess: 1.4814814814814814
+Doc >>D157
+ Reference >>FPeer: 116 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: 49 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D139
+ Reference >>APeer: 116 Responsiveness: 1 imeasureGuess: 3.4074074074074074
+Doc >>D154
+ Reference >>HPeer: 43 Responsiveness: 2 imeasureGuess: 1.7777777777777777
+***Correct Guess***Doc >>D137
+ Reference >>DPeer: B Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D189
+ Reference >>GPeer: 16 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D134
+ Reference >>APeer: 16 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D137
+ Reference >>DPeer: 147 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D147
+ Reference >>APeer: 109 Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D139
+ Reference >>APeer: 125 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D191
+ Reference >>DPeer: 62 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D178
+ Reference >>DPeer: D Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D136
+ Reference >>BPeer: 147 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D185
+ Reference >>BPeer: 49 Responsiveness: 0 imeasureGuess: 2.5185185185185186
+Doc >>D157
+ Reference >>FPeer: 49 Responsiveness: 2 imeasureGuess: 3.5555555555555554
+Doc >>D159
+ Reference >>DPeer: A Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D141
+ Reference >>BPeer: H Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D188
+ Reference >>FPeer: 86 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D165
+ Reference >>HPeer: D Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: 43 Responsiveness: 3 imeasureGuess: 2.814814814814815
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: 71 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D149
+ Reference >>EPeer: 125 Responsiveness: 1 imeasureGuess: 0.16666666666666666
+Doc >>D191
+ Reference >>DPeer: G Responsiveness: 3 imeasureGuess: 3.7037037037037037
+Doc >>D169
+ Reference >>HPeer: 49 Responsiveness: 0 imeasureGuess: 1.037037037037037
+Doc >>D164
+ Reference >>APeer: 122 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D187
+ Reference >>EPeer: 62 Responsiveness: 2 imeasureGuess: 0.2962962962962963
+Doc >>D139
+ Reference >>APeer: 62 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D136
+ Reference >>BPeer: 71 Responsiveness: 1 imeasureGuess: 1.4814814814814814
+***Correct Guess***Doc >>D178
+ Reference >>DPeer: 71 Responsiveness: 3 imeasureGuess: 2.5185185185185186
+***Correct Guess***Doc >>D136
+ Reference >>BPeer: 24 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D174
+ Reference >>BPeer: 5 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D148
+ Reference >>FPeer: 24 Responsiveness: 3 imeasureGuess: 2.4615384615384617
+Doc >>D156
+ Reference >>FPeer: 62 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D133
+ Reference >>BPeer: A Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D156
+ Reference >>FPeer: G Responsiveness: 4 imeasureGuess: 2.6666666666666665
+Doc >>D173
+ Reference >>EPeer: B Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D176
+ Reference >>GPeer: 62 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D147
+ Reference >>APeer: 86 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D196
+ Reference >>FPeer: 30 Responsiveness: 3 imeasureGuess: 2.5185185185185186
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: 125 Responsiveness: 0 imeasureGuess: 0.5925925925925926
+Doc >>D149
+ Reference >>EPeer: 122 Responsiveness: 1 imeasureGuess: 3.3333333333333335
+Doc >>D156
+ Reference >>FPeer: F Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: F Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D169
+ Reference >>HPeer: 62 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D133
+ Reference >>BPeer: 5 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D192
+ Reference >>DPeer: 16 Responsiveness: 3 imeasureGuess: 2.962962962962963
+***Correct Guess***Doc >>D199
+ Reference >>DPeer: 62 Responsiveness: 3 imeasureGuess: 0.4444444444444444
+Doc >>D197
+ Reference >>GPeer: 49 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D156
+ Reference >>FPeer: 125 Responsiveness: 2 imeasureGuess: 1.3333333333333333
+Doc >>D192
+ Reference >>DPeer: 86 Responsiveness: 1 imeasureGuess: 1.6296296296296295
+Doc >>D155
+ Reference >>EPeer: 16 Responsiveness: 1 imeasureGuess: 3.5555555555555554
+Doc >>D170
+ Reference >>BPeer: 16 Responsiveness: 0 imeasureGuess: 2.962962962962963
+Doc >>D190
+ Reference >>HPeer: 96 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: 96 Responsiveness: 0 imeasureGuess: 1.4814814814814814
+Doc >>D202
+ Reference >>FPeer: 30 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D176
+ Reference >>GPeer: 86 Responsiveness: 2 imeasureGuess: 1.7777777777777777
+***Correct Guess***Doc >>D179
+ Reference >>HPeer: 43 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D165
+ Reference >>HPeer: 122 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D166
+ Reference >>APeer: 86 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D196
+ Reference >>FPeer: E Responsiveness: 4 imeasureGuess: 3.7037037037037037
+***Correct Guess***Doc >>D197
+ Reference >>GPeer: 147 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D173
+ Reference >>EPeer: 86 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D164
+ Reference >>APeer: F Responsiveness: 4 imeasureGuess: 2.814814814814815
+Doc >>D169
+ Reference >>HPeer: 96 Responsiveness: 0 imeasureGuess: 0.14814814814814814
+***Correct Guess***Doc >>D157
+ Reference >>FPeer: H Responsiveness: 3 imeasureGuess: 1.4814814814814814
+Doc >>D155
+ Reference >>EPeer: 5 Responsiveness: 2 imeasureGuess: 1.4814814814814814
+Doc >>D161
+ Reference >>GPeer: 5 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D135
+ Reference >>APeer: 49 Responsiveness: 2 imeasureGuess: 3.111111111111111
+Doc >>D197
+ Reference >>GPeer: 109 Responsiveness: 1 imeasureGuess: 2.2222222222222223
+Doc >>D202
+ Reference >>FPeer: 43 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D192
+ Reference >>DPeer: 71 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D144
+ Reference >>EPeer: F Responsiveness: 3 imeasureGuess: 3.4074074074074074
+***Correct Guess***Doc >>D170
+ Reference >>BPeer: 96 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D190
+ Reference >>HPeer: B Responsiveness: 4 imeasureGuess: 3.4074074074074074
+Doc >>D199
+ Reference >>DPeer: D Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D195
+ Reference >>EPeer: 62 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D176
+ Reference >>GPeer: 109 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D132
+ Reference >>APeer: 71 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D141
+ Reference >>BPeer: 116 Responsiveness: 0 imeasureGuess: 2.962962962962963
+Doc >>D164
+ Reference >>APeer: D Responsiveness: 4 imeasureGuess: 3.259259259259259
+Doc >>D185
+ Reference >>BPeer: 5 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D190
+ Reference >>HPeer: 71 Responsiveness: 0 imeasureGuess: 2.5185185185185186
+Doc >>D169
+ Reference >>HPeer: 109 Responsiveness: 1 imeasureGuess: 3.5555555555555554
+Doc >>D190
+ Reference >>HPeer: 24 Responsiveness: 0 imeasureGuess: 1.7777777777777777
+Doc >>D197
+ Reference >>GPeer: C Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D195
+ Reference >>EPeer: 24 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D195
+ Reference >>EPeer: G Responsiveness: 3 imeasureGuess: 2.2222222222222223
+Doc >>D191
+ Reference >>DPeer: 122 Responsiveness: 3 imeasureGuess: 2.2222222222222223
+Doc >>D171
+ Reference >>BPeer: 62 Responsiveness: 1 imeasureGuess: 2.6666666666666665
+Doc >>D191
+ Reference >>DPeer: 96 Responsiveness: 2 imeasureGuess: 0.5925925925925926
+Doc >>D201
+ Reference >>EPeer: 49 Responsiveness: 2 imeasureGuess: 2.074074074074074
+***Correct Guess***Doc >>D176
+ Reference >>GPeer: 24 Responsiveness: 1 imeasureGuess: 3.111111111111111
+Doc >>D168
+ Reference >>HPeer: 30 Responsiveness: 2 imeasureGuess: 3.5555555555555554
+Doc >>D153
+ Reference >>GPeer: 96 Responsiveness: 2 imeasureGuess: 1.1851851851851851
+Doc >>D195
+ Reference >>EPeer: 30 Responsiveness: 1 imeasureGuess: 2.5185185185185186
+Doc >>D134
+ Reference >>APeer: 116 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D156
+ Reference >>FPeer: 116 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D136
+ Reference >>BPeer: C Responsiveness: 4 imeasureGuess: 2.814814814814815
+Doc >>D137
+ Reference >>DPeer: 109 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D171
+ Reference >>BPeer: 43 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D137
+ Reference >>DPeer: 49 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D199
+ Reference >>DPeer: 147 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D187
+ Reference >>EPeer: 109 Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D144
+ Reference >>EPeer: 24 Responsiveness: 1 imeasureGuess: 2.814814814814815
+Doc >>D189
+ Reference >>GPeer: 122 Responsiveness: 1 imeasureGuess: 3.7037037037037037
+Doc >>D189
+ Reference >>GPeer: 5 Responsiveness: 1 imeasureGuess: 0.5925925925925926
+***Correct Guess***Doc >>D135
+ Reference >>APeer: 122 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D193
+ Reference >>FPeer: 43 Responsiveness: 1 imeasureGuess: 0.14814814814814814
+Doc >>D144
+ Reference >>EPeer: 30 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D149
+ Reference >>EPeer: 86 Responsiveness: 1 imeasureGuess: 1.8333333333333333
+Doc >>D149
+ Reference >>EPeer: E Responsiveness: 4 imeasureGuess: 3.8333333333333335
+***Correct Guess***Doc >>D161
+ Reference >>GPeer: 71 Responsiveness: 1 imeasureGuess: 2.962962962962963
+Doc >>D174
+ Reference >>BPeer: 147 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D144
+ Reference >>EPeer: 109 Responsiveness: 2 imeasureGuess: 1.9259259259259258
+***Correct Guess***Doc >>D187
+ Reference >>EPeer: 49 Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D189
+ Reference >>GPeer: 96 Responsiveness: 1 imeasureGuess: 1.4814814814814814
+***Correct Guess***Doc >>D200
+ Reference >>HPeer: 86 Responsiveness: 0 imeasureGuess: 0.7407407407407407
+Doc >>D137
+ Reference >>DPeer: 24 Responsiveness: 1 imeasureGuess: 2.074074074074074
+Doc >>D132
+ Reference >>APeer: 147 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D149
+ Reference >>EPeer: 147 Responsiveness: 2 imeasureGuess: 0.5
+Doc >>D179
+ Reference >>HPeer: 71 Responsiveness: 1 imeasureGuess: 3.259259259259259
+Doc >>D173
+ Reference >>EPeer: 49 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D196
+ Reference >>FPeer: 71 Responsiveness: 1 imeasureGuess: 3.259259259259259
+Doc >>D147
+ Reference >>APeer: A Responsiveness: 3 imeasureGuess: 3.8518518518518516
+Doc >>D137
+ Reference >>DPeer: 30 Responsiveness: 1 imeasureGuess: 0.8888888888888888
+***Correct Guess***Doc >>D193
+ Reference >>FPeer: 86 Responsiveness: 0 imeasureGuess: 0.2962962962962963
+***Correct Guess***Doc >>D135
+ Reference >>APeer: 125 Responsiveness: 1 imeasureGuess: 0.4444444444444444
+Doc >>D195
+ Reference >>EPeer: 109 Responsiveness: 1 imeasureGuess: 2.6666666666666665
+Doc >>D166
+ Reference >>APeer: 5 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D185
+ Reference >>BPeer: 71 Responsiveness: 3 imeasureGuess: 3.259259259259259
+***Correct Guess***Doc >>D211
+ Reference >>GPeer: 16 Responsiveness: 1 imeasureGuess: 1.037037037037037
+***Correct Guess***Doc >>D175
+ Reference >>FPeer: H Responsiveness: 4 imeasureGuess: 3.259259259259259
+Doc >>D178
+ Reference >>DPeer: 24 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D173
+ Reference >>EPeer: 116 Responsiveness: 1 imeasureGuess: 1.7777777777777777
+Doc >>D155
+ Reference >>EPeer: 24 Responsiveness: 3 imeasureGuess: 2.074074074074074
+Doc >>D176
+ Reference >>GPeer: 49 Responsiveness: 2 imeasureGuess: 3.259259259259259
+Doc >>D187
+ Reference >>EPeer: 71 Responsiveness: 2 imeasureGuess: 2.5185185185185186
+Doc >>D153
+ Reference >>GPeer: 30 Responsiveness: 2 imeasureGuess: 3.5555555555555554
+Doc >>D192
+ Reference >>DPeer: 109 Responsiveness: 2 imeasureGuess: 0.7407407407407407
+Doc >>D157
+ Reference >>FPeer: 43 Responsiveness: 1 imeasureGuess: 1.1851851851851851
+***Correct Guess***Doc >>D189
+ Reference >>GPeer: 62 Responsiveness: 0 imeasureGuess: 0.4444444444444444
+***Correct Guess***Doc >>D202
+ Reference >>FPeer: 71 Responsiveness: 2 imeasureGuess: 2.3703703703703702
+***Correct Guess***Doc >>D155
+ Reference >>EPeer: 62 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D134
+ Reference >>APeer: 96 Responsiveness: 1 imeasureGuess: 0.2962962962962963
+Doc >>D139
+ Reference >>APeer: 96 Responsiveness: 2 imeasureGuess: 0.14814814814814814
+Doc >>D187
+ Reference >>EPeer: 43 Responsiveness: 2 imeasureGuess: 1.037037037037037
+Doc >>D136
+ Reference >>BPeer: 125 Responsiveness: 3 imeasureGuess: 2.962962962962963
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: 71 Responsiveness: 1 imeasureGuess: 3.111111111111111
+Doc >>D137
+ Reference >>DPeer: 43 Responsiveness: 1 imeasureGuess: 1.3333333333333333
+***Correct Guess***Doc >>D134
+ Reference >>APeer: F Responsiveness: 4 imeasureGuess: 3.5555555555555554
+***Correct Guess***Doc >>D190
+ Reference >>HPeer: H Responsiveness: 4 imeasureGuess: 3.8518518518518516
+***Correct Guess***Doc >>D165
+ Reference >>HPeer: 109 Responsiveness: 0 imeasureGuess: 0.7407407407407407
+Doc >>D148
+ Reference >>FPeer: F Responsiveness: 4 imeasureGuess: 3.8461538461538463
+***Correct Guess***Doc >>D202
+ Reference >>FPeer: 16 Responsiveness: 2 imeasureGuess: 2.962962962962963
+Doc >>D170
+ Reference >>BPeer: C Responsiveness: 3 imeasureGuess: 2.2222222222222223
+Doc >>D196
+ Reference >>FPeer: H Responsiveness: 3 imeasureGuess: 3.5555555555555554
+Doc >>D161
+ Reference >>GPeer: 147 Responsiveness: 2 imeasureGuess: 2.2222222222222223
+***Correct Guess***Doc >>D141
+ Reference >>BPeer: 86 Responsiveness: 2 imeasureGuess: 3.4074074074074074
+Doc >>D202
+ Reference >>FPeer: 122 Responsiveness: 1 imeasureGuess: 1.9259259259259258
+Doc >>D201
+ Reference >>EPeer: G Responsiveness: 4 imeasureGuess: 2.962962962962963
+Doc >>D166
+ Reference >>APeer: 16 Responsiveness: 0 imeasureGuess: 1.037037037037037
+Doc >>D189
+ Reference >>GPeer: 116 Responsiveness: 2 imeasureGuess: 2.6666666666666665
+Doc >>D136
+ Reference >>BPeer: 122 Responsiveness: 2 imeasureGuess: 1.6296296296296295
+***Correct Guess***Doc >>D192
+ Reference >>DPeer: H Responsiveness: 3 imeasureGuess: 2.2222222222222223
+
+Correct: 297out of 917
